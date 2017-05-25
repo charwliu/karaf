@@ -77,10 +77,10 @@
     </modules>
 
     <scm>
-        <connection>scm:git:https://git-wip-us.apache.org/repos/asf/karaf.git</connection>
-        <developerConnection>scm:git:https://git-wip-us.apache.org/repos/asf/karaf.git</developerConnection>
-        <url>https://git-wip-us.apache.org/repos/asf?p=karaf.git;a=summary</url>
-      <tag>HEAD</tag>
+        <url>https://github.com/charwliu/karaf.git</url>
+        <developerConnection>scm:git:https://github.com/charwliu/karaf.git</developerConnection>
+        <connection>scm:git:https://github.com/charwliu/karaf.git</connection>
+        <tag>HEAD</tag>
   </scm>
 
     <issueManagement>
